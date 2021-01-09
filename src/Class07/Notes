@@ -1,0 +1,9 @@
+class 7
+Handling multiple windows:
+In order to handle multiple windows we will be using:
+getWindowsHandle:
+getWindowHandles:
+
+WindowHandle:
+window handle is a unique ID the holds the address of the window or tabs
+It is approximately 40 alphanumerical characters ID

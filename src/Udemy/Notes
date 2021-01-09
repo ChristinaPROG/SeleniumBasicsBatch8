@@ -1,0 +1,12 @@
+Every object may not have ID, className, or name - Xpath and CSS Preferred
+Alpha numeric id may vary on every refresh- check
+Confirm the link object with anchor "a" tag
+Classes should not have spaces- compound classes cant be accepted
+Multipl Value- Selenium identifies the first one- scans from top left
+Double quotes inside double quotes are not accepted
+Xpath can be defined in a number of ways
+Rightclick copy of blue highlighted html code to generate Xpath
+Firepath depreciated from firefox-
+when Xpath starts with html- not reliable -switch browser to get another one
+There is no direct way to get CSS in Chrome. You will find in tool bar
+$("") for CSS Selector $X("") for XPath
